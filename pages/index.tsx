@@ -14,7 +14,8 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main>
-        <h1>Bill Nalen's Site</h1>
+        <h1>Bill Nalen</h1>
+        <h2>Web Developer</h2>
       </main>
     </>
   )
